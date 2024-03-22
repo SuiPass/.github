@@ -1,4 +1,5 @@
 # Welcome to SuiPass
+![DALL·E 2024-03-22 15 15 45 - Create a professional and minimalist banner related to digital identity, security, and blockchain technology for a GitHub README page  The design shou](https://github.com/SuiPass/.github/assets/42999269/67ca500a-e02e-4e56-b16c-2fd6ee539391)
 
 ## Decentralized Identity Verification on the SUI Network
 
